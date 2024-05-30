@@ -38,6 +38,6 @@ You can [download](https://github.com/ROB0CITRON/SortingProject/raw/Download/Sor
 <table>
 	<tr>
 		<td align="center" valign="top"><a href="https://github.com/ByboCZ"><img src="https://avatars.githubusercontent.com/u/97798689?v=4" width="100px;" alt="ByboCZ"/><br/><sub><b>ByboCZ</b></sub></a>
-		<td align="center" valign="top"><a href="https://github.com/ROB0CITRON"><img src="https://avatars.githubusercontent.com/u/155917021?v=4" width="100px;" alt="ROB0CITRON"/><br/><sub<b>ROB0CITRON</b></sub></a>
+		<td align="center" valign="top"><a href="https://github.com/ROB0CITRON"><img src="https://avatars.githubusercontent.com/u/155917021?v=4" width="100px;" alt="ROB0CITRON"/><br/><sub><b>ROB0CITRON</b></sub></a>
 	</tr>
 </table>
